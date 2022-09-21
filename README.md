@@ -1,2 +1,2 @@
-# Kaldi_Automation_Tools
+# Cafe Phin Visualization Tools
 The self-made tools for famous opensource Kaldi visualization 
