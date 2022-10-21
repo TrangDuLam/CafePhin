@@ -1,6 +1,7 @@
 #!/bin/bash
 
-recipe_dir=/home/yulanchu/kaldi/egs/thchs30/s5
+. ./path.sh
+recipe_dir=$thchs30_root
 
 # To extract how many test data files
 test_num=$(wc -l <  $recipe_dir/data/test/text)
