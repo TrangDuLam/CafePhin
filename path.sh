@@ -5,6 +5,6 @@
 # Need to modifty them for different users. 
 
 thchs30_root=/home/yulanchu/kaldi/egs/thchs30/s5
-aishell1_root=
+aishell1_root=/media/harddrive/AndyChuang/kaldi/egs/aishell/s5
 librispeech_root=
 aidatatang_200zh_root=
